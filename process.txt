@@ -1,3 +1,7 @@
+To update git of C9 changes:
 git add <path>
 git commit <path> -m "Message"
 git push
+
+To update C9 of git changes:
+git pull
